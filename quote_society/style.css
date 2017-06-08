@@ -1,0 +1,9 @@
+html, body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.container {
+    width: 60%;
+}
+.error {
+    color: red;
+}
