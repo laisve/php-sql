@@ -1,0 +1,30 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+input {
+    display: block;
+    margin-bottom: 20px;
+}
+button {
+    border: none;
+    background-color: plum;
+    font-family: 'Verdana';
+    padding: 8px 12px;
+}
+.box {
+    width: 50%;
+    font-size: 20px;
+    padding: 35px 20px;
+    margin-left: 40px;
+    border: 2px solid black;
+}
+.success {
+    background-color: green;
+}
+.error {
+    background-color: red;
+}
